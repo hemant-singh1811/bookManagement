@@ -31,3 +31,14 @@ Running the project
 
     To access the documentation go to http://localhost:3000/api-docs
 
+
+
+API end points : 
+
+1. /login : to get logged in and get the userToken.
+2. /books (post) : to insert a book and return unique id of book.
+3. /books (get) : to get the all books.
+4. /getFilteredBooks : to get the Filtered books by author or publication year.
+5. /books/:id (get) : to get the info of specific books by id
+6. /books/:id (put) : to do update of book info by book id
+7. /books/:id (delete) : to delete the given book by id
