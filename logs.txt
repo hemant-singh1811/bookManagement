@@ -484,3 +484,9 @@ Req :  2024-04-25T10:52:57.096Z GET /api-docs/swagger-ui-bundle.js
 Req :  2024-04-25T10:52:57.099Z GET /api-docs/swagger-ui-standalone-preset.js
 Req :  2024-04-25T10:52:57.100Z GET /api-docs/swagger-ui-init.js
 Req :  2024-04-25T10:52:57.137Z GET /api-docs/favicon-32x32.png
+Req :  2024-04-26T07:28:53.366Z GET /api-docs/
+Req :  2024-04-26T07:28:53.402Z GET /api-docs/swagger-ui.css
+Req :  2024-04-26T07:28:53.407Z GET /api-docs/swagger-ui-bundle.js
+Req :  2024-04-26T07:28:53.409Z GET /api-docs/swagger-ui-standalone-preset.js
+Req :  2024-04-26T07:28:53.411Z GET /api-docs/swagger-ui-init.js
+Req :  2024-04-26T07:28:53.517Z GET /api-docs/favicon-32x32.png
